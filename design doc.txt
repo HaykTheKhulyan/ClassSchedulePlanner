@@ -1,0 +1,55 @@
+10	i want to view a list of all the classes available this upcoming quarter
+
+10	i want to add all the classes i am considering for the upcoming quarter to a list so that i can find a combination
+		that works well for me
+
+8	i want to select 3-5 classes from my list so that i can narrow down a combination with a good schedule
+
+10	i want to look through all possible schedules to find one that works best for me
+
+7	i want to add in time-blocks, times where i can not go to class, so that i can accomodate other responsibilities
+
+3	i want to be given a list of the most "dense" class schedule so that i minimize wasted time-blocks
+
+2	i want to select a "minimum time between classes" so that im not too rushed and so that i can have time to study
+
+5	i want to quickly find the rate my professor/capes reviews for a given professor in a class so that i can choose better professors
+
+6	i want to select "required" classes and "optional" classes so that i can make sure i take the classes i need, and add in 
+		any more that my schedule can accomodate
+
+3	i want to blacklist certain professors so that i can avoid them
+3	i want to blacklist certain class sections so that i can trim down my available schedules
+4	i want to quickly remove blacklisted classes so that i can remove excessive restrictions
+	
+6	i want to "lock in" certain classes so that i can check only schedules that include these classes
+
+3	i want to see the difficulty of various classes and schedules, or manually set them, so that i can determine my workload
+
+6	i want to see how many seats are in the class, how many are available, the size of the waitlist (if any), so that i can 
+		know which class are available for me
+		
+2	i want to know what the average waitlist acceptance number is from previous quarters so i can know my chances of getting in
+		from the waitlist
+
+5	i want to quickly see the prerequisites of a class so that i can figure out what classes i need to take to enroll in that
+		class
+
+iteration 1: retrieve a list of all classes in an upcoming quarter
+iteration 2: filter and select classes from the list
+iteration 3: display the selected classes on a calendar
+iteration 4: generate all possible schedules with the selected classes and scroll through them
+
+write a script that retrieves the class schedule and creates a json representation of the class schedule
+
+
+
+
+
+
+
+
+
+
+
+
