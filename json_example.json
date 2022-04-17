@@ -1,0 +1,32 @@
+{
+    "subjects": {
+        "BILD": {
+            "BILD2": {
+                "lectures": {
+                    "A00": {
+                        "meeting_days": "MW",
+                        "time": "1700-1950",
+                        "building": "RCLAS",
+                        "room": "R05",
+                        "professor": "Lebeaupin, Cynthia D",
+                        "seats": -1,
+                        "seats_available": -1
+                    }
+                },
+                "discussions": {
+                    "A01": {
+                        "meeting_days": "MW",
+                        "time": "1700-1950",
+                        "building": "RCLAS",
+                        "room": "R05",
+                        "professor": "Lebeaupin, Cynthia D",
+                        "seats": -1,
+                        "seats_available": -1
+                    }
+                },
+                "labs": {}
+            },
+            "BILD3": {}
+        }
+    }
+}
