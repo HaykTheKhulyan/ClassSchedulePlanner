@@ -41,15 +41,5 @@ iteration 3: display the selected classes on a calendar
 iteration 4: generate all possible schedules with the selected classes and scroll through them
 
 write a script that retrieves the class schedule and creates a json representation of the class schedule
-
-
-
-
-
-
-
-
-
-
-
-
+initially only deal with undergrad classes, then add support for graduate level classes
+eventually take care of restrictions
